@@ -1,0 +1,12 @@
+{
+  "name": "arc",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Rod",
+  "license": "MIT",
+  "scripts": {},
+  "engines": {
+    "node": ">=24"
+  },
+  "packageManager": "pnpm@10.33.0"
+}
